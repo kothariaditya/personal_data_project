@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Running">
+            <Id>2016-06-26T22:06:09.965Z</Id>
+            <Notes>Running</Notes>
+            <Lap StartTime="2016-06-26T22:06:09.965Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2016-06-26T22:06:09.965Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>147.10137939453125</DistanceMeters>
+                        <Time>2016-06-26T22:07:13.344Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>297.340087890625</DistanceMeters>
+                        <Time>2016-06-26T22:08:03.543Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.46876525878906</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54060363769531</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>297.340087890625</DistanceMeters>
+                        <Time>2016-06-26T22:09:01.552Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>384.09739685058594</DistanceMeters>
+                        <Time>2016-06-26T22:09:18.000Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.4689826965332</LatitudeDegrees>
+                            <LongitudeDegrees>-80.53987884521484</LongitudeDegrees>
+                        </Position>
+                        <AltitudeMeters>308.0</AltitudeMeters>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>384.09739685058594</DistanceMeters>
+                        <Time>2016-06-26T22:10:00.975Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>487.2987518310547</DistanceMeters>
+                        <Time>2016-06-26T22:10:16.739Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.464012145996094</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54248809814453</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>487.2987518310547</DistanceMeters>
+                        <Time>2016-06-26T22:11:17.925Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>487.2987518310547</DistanceMeters>
+                <TotalTimeSeconds>307.96</TotalTimeSeconds>
+                <Calories>42.986083984375</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>

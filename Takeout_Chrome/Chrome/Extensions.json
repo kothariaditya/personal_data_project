@@ -1,0 +1,230 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": true,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Cast",
+            "id": "boadgeojelhgndaghljhdicfkmllpafd",
+            "version": "15.827.0.6",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Bookmark Manager",
+            "id": "gmlllbghnfkpflemihljekbapjopfjik",
+            "version": "2.2016.128.11729",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Similar Pages",
+            "id": "pjnfggphgdjblhfjaphkjhfpiiekbbej",
+            "version": "0.6.6.2",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 3,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Data Saver",
+            "id": "pfmgfdlgomnbgkofeojodiodmgpgmkac",
+            "version": "2.0.2",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Boomerang for Gmail",
+            "id": "mdanidgdpmkimeiiojknlnekblgmpdll",
+            "version": "1.2.6",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Dictionary (by Google)",
+            "id": "mgijmajocgfcbeboacabfgobmjgjcoja",
+            "version": "4.0.5",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Hide My AdBlocker",
+            "id": "gihcngphjjankfngmgdkihhngndcdflc",
+            "version": "2.85",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Inbox by Gmail",
+            "id": "gkljgfmjocfalijkgoogmfffkhmkbgol",
+            "version": "1.0.0.1929",
+            "enabled": true
+},
+        {
+            "incognito_enabled": true,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Adblock Plus",
+            "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+            "version": "1.12.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Wikiwand: Wikipedia Modernized",
+            "id": "emffkefkbkpkgpdeeooapgaicgmcbolj",
+            "version": "8.2",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Calendar (by Google)",
+            "id": "gmbgaklkmjakoegficnlkhebmhkjfich",
+            "version": "2.7",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Session Buddy",
+            "id": "edacconmaakjimmfgnblocblbcdcpbko",
+            "version": "3.4.14",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Keep Chrome Extension",
+            "id": "lpcaedmchfhocbbapmcbpinfpgnhiddi",
+            "version": "3.1.16302.1110",
+            "enabled": true
+},
+        {
+            "incognito_enabled": true,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "AdBlock",
+            "id": "gighmmpiobklfepjocnamgkkbiglidom",
+            "version": "3.8.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Momentum",
+            "id": "laookkfknpbbblfpciffpaejjkokdgca",
+            "version": "0.92.2",
+            "enabled": true
+},
+        {
+            "incognito_enabled": true,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Adblock for Youtube™",
+            "id": "cmedhionkhpnakcndndgjdbohmhepckk",
+            "version": "4.2.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Right Inbox for Gmail",
+            "id": "mflnemhkomgploogccdmcloekbloobgb",
+            "version": "8.6.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Honey",
+            "id": "bmnlcjabgnpnenekpadlanbbkooimhnj",
+            "version": "9.4.5",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Kill News Feed",
+            "id": "hjobfcedfgohjkaieocljfcppjbkglfd",
+            "version": "1.1.1",
+            "enabled": true
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "gmlllbghnfkpflemihljekbapjopfjik",
+            "value": "\"1.6\"",
+            "key": "intro-si"
+},
+        {
+            "extension_id": "boadgeojelhgndaghljhdicfkmllpafd",
+            "value": "true",
+            "key": "blockChromekeySetupAutoLaunchOnInstall"
+},
+        {
+            "extension_id": "bmnlcjabgnpnenekpadlanbbkooimhnj",
+            "value": "\"\\\"7746621402870309072\\\"\"",
+            "key": "user:id"
+}
+    ]
+}

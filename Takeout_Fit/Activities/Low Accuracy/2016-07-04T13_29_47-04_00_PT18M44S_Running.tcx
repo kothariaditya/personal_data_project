@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Running">
+            <Id>2016-07-04T17:32:17.770Z</Id>
+            <Notes>Running</Notes>
+            <Lap StartTime="2016-07-04T17:32:17.770Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2016-07-04T17:32:17.770Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>19.246509552001953</DistanceMeters>
+                        <Time>2016-07-04T17:32:28.474Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>76.18640518188477</DistanceMeters>
+                        <Time>2016-07-04T17:32:47.281Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.467529296875</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54401397705078</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>149.18640518188477</DistanceMeters>
+                        <Time>2016-07-04T17:33:48.837Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.46805953979492</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54348754882812</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>336.18640518188477</DistanceMeters>
+                        <Time>2016-07-04T17:34:57.018Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.46957778930664</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54249572753906</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>468.18640518188477</DistanceMeters>
+                        <Time>2016-07-04T17:37:04.376Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.47002410888672</LatitudeDegrees>
+                            <LongitudeDegrees>-80.54400634765625</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>553.1864051818848</DistanceMeters>
+                        <Time>2016-07-04T17:38:07.760Z</Time>
+                        <Position>
+                            <LatitudeDegrees>43.47077941894531</LatitudeDegrees>
+                            <LongitudeDegrees>-80.5441665649414</LongitudeDegrees>
+                        </Position>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>622.3559608459473</DistanceMeters>
+                        <Time>2016-07-04T17:38:37.811Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>622.3559608459473</DistanceMeters>
+                <TotalTimeSeconds>380.041</TotalTimeSeconds>
+                <Calories>53.047393798828125</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>

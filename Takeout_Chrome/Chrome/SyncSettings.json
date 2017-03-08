@@ -1,0 +1,655 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google Search",
+                        "id": "coobgpohoikkiipiblmjeljniedjpjpf",
+                        "version": "0.0.0.20",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "w",
+            "extension": {
+                        "incognito_enabled": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Gmail",
+                        "id": "pjkljhegncpnkpknbcohdijeoejaedia",
+                        "version": "7",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzw",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "imo free video calls and text",
+                        "id": "ocaebkdojpikfmhmnekiflipcicedobi",
+                        "version": "1.4.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "r",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "wn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Gmail Offline",
+                        "id": "ejidjjhkpiempkbhmpbfngldlkglhimk",
+                        "version": "1.20",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google News",
+                        "id": "dllkocilcinkggkchnjgegijklcililc",
+                        "version": "3.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "u",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Chrome",
+                        "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
+                        "version": "0.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "n",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "YouTube",
+                        "id": "blpcfgokakmgnkcojhhkbfbldkacnbeo",
+                        "version": "4.2.8",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzw",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Magic 8 Ball",
+                        "id": "mojlibmlhnkddedeobamadopdaedenfj",
+                        "version": "1.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzzv",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Google Play Music",
+                        "id": "icppfcnhkcmnfdhfhphakoifcfokfdhg",
+                        "version": "5.5",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzzm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Chrome Remote Desktop",
+                        "id": "gbchcmhmhahfdphkhkmpfmihenigjmpp",
+                        "version": "52.0.2743.48",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "HelloFax: 5 Free Fax Pages",
+                        "id": "bocmleclimfnadgmcdgecijlblfcmfnm",
+                        "version": "1.22.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzzs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Videostream for Google Chromecast™",
+                        "id": "cnciopoikihiagdjbjpnocolokfelagl",
+                        "version": "2.16.1219.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzt",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "GeoGebra Math Apps",
+                        "id": "bnbaboaihhkjoaolfnfoablhllahjnee",
+                        "version": "5.0.240.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzzx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Google Play Music",
+                        "id": "fahmaaghhglfmonjliepjlchgpgfmobi",
+                        "version": "1.351.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [
+        {"extension_setting": {
+            "extension_id": "obklkkbkpaoaejdabbfldmcfplpdgolj",
+            "value": "{\"layout\":\"CENTER_CROPPED\",\"source\":\"ONLINE\",\"url\":\"https://storage.googleapis.com/chromeos-wallpaper-public/20131015-151156_pixel-sized-impoved_high_resolution.jpg\"}",
+            "key": "wallpaper-sync-info-key"
+}}
+    ],
+    "Preferences": [
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Default Profile\""
+},
+        {
+            "name": "homepage_is_newtabpage",
+            "value": "false"
+},
+        {
+            "name": "instant.enabled_time",
+            "value": "\"12974226879639575\""
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "0"
+},
+        {
+            "name": "homepage",
+            "value": "\"http://www.google.com/\""
+},
+        {
+            "name": "default_search_provider.synced_guid",
+            "value": "\"E7B03E84-A54C-469A-8456-638ED0160790\""
+},
+        {
+            "name": "profile.content_settings.clear_on_exit_migrated",
+            "value": "true"
+},
+        {
+            "name": "translate.enabled",
+            "value": "true"
+},
+        {
+            "name": "use_default_pinned_apps",
+            "value": "false"
+},
+        {
+            "name": "settings.release_notes.version",
+            "value": "\"20.0.1132.59\""
+},
+        {
+            "name": "settings.language.preferred_virtual_keyboard",
+            "value": "{}"
+},
+        {
+            "name": "settings.clock.use_24hour_clock",
+            "value": "true"
+},
+        {
+            "name": "instant.enabled",
+            "value": "true"
+},
+        {
+            "name": "instant.enabled_once",
+            "value": "true"
+},
+        {
+            "name": "instant.confirm_dialog_shown",
+            "value": "true"
+},
+        {
+            "name": "intl.app_locale",
+            "value": "\"en-US\""
+},
+        {
+            "name": "extensions.keybindings",
+            "value": "{}"
+},
+        {
+            "name": "search.suggest_enabled",
+            "value": "true"
+},
+        {
+            "name": "profile.block_third_party_cookies",
+            "value": "false"
+},
+        {
+            "name": "settings.mouse.primary_right",
+            "value": "false"
+},
+        {
+            "name": "settings.touchpad.enable_tap_to_click",
+            "value": "true"
+},
+        {
+            "name": "settings.touchpad.natural_scroll",
+            "value": "false"
+},
+        {
+            "name": "settings.language.xkb_remap_search_key_to",
+            "value": "0"
+},
+        {
+            "name": "settings.language.xkb_remap_control_key_to",
+            "value": "1"
+},
+        {
+            "name": "settings.language.xkb_remap_alt_key_to",
+            "value": "2"
+},
+        {
+            "name": "session.urls_to_restore_on_startup",
+            "value": "[\"http://www.google.com/\"]"
+},
+        {
+            "name": "enable_do_not_track",
+            "value": "true"
+},
+        {
+            "name": "extensions.sideload_wipeout_bubble_shown",
+            "value": "3"
+},
+        {
+            "name": "browser.clear_data.passwords",
+            "value": "false"
+},
+        {
+            "name": "profile.is_managed",
+            "value": "false"
+},
+        {
+            "name": "settings.a11y.screen_magnifier",
+            "value": "false"
+},
+        {
+            "name": "settings.a11y.screen_magnifier_type2",
+            "value": "2"
+},
+        {
+            "name": "settings.enable_screen_lock",
+            "value": "false"
+},
+        {
+            "name": "settings.touchpad.sensitivity2",
+            "value": "5"
+},
+        {
+            "name": "settings.touchpad.enable_tap_dragging",
+            "value": "true"
+},
+        {
+            "name": "translate_language_blacklist",
+            "value": "[\"es\"]"
+},
+        {
+            "name": "profile.default_content_settings",
+            "value": "{}"
+},
+        {
+            "name": "profile.managed_user_id",
+            "value": "\"\""
+},
+        {
+            "name": "synced_notification.initialized_sending_services",
+            "value": "[\"Google+\"]"
+},
+        {
+            "name": "synced_notification.enabled_sending_services",
+            "value": "[\"Google+\"]"
+},
+        {
+            "name": "shelf_chrome_icon_index",
+            "value": "1"
+},
+        {
+            "name": "pinned_launcher_apps",
+            "value": "[{\"id\":\"AppLauncherIDPlaceholder--------\"},{\"id\":\"blpcfgokakmgnkcojhhkbfbldkacnbeo\"},{\"id\":\"apdfllckaahabafndbhieahigkjlhalf\"},{\"id\":\"dllkocilcinkggkchnjgegijklcililc\"},{\"id\":\"ejjicmeblgpmajnghnpcppodonldlgfn\"},{\"id\":\"hhaomjibdihmijegdhdafkllkbggdgoj\"},{\"id\":\"dlppkpafhbajpcmmoheippocdidnckmm\"},{\"id\":\"aohghmighlieiainnegkcijnfilokake\"},{\"id\":\"kbpgddbgniojgndnhlkjbkpknjhppkbk\"},{\"id\":\"pjkljhegncpnkpknbcohdijeoejaedia\"}]"
+},
+        {
+            "name": "shelf_alignment",
+            "value": "\"Left\""
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"http://www.google.com/\"]"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"es\",\"fr\"]"
+},
+        {
+            "name": "auto_hide_behavior",
+            "value": "\"Always\""
+},
+        {
+            "name": "browser.clear_data.download_history",
+            "value": "false"
+},
+        {
+            "name": "message_center.welcome_notification_dismissed",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.plugin_whitelist",
+            "value": "{\"Default Browser\":{\"plugin\":true},\"SharePointBrowserPlugin\":{\"plugin\":true},\"ace\":{\"bundle\":true},\"adobe-flash-player\":true,\"apple-quicktime\":true,\"google-chrome-pdf\":true,\"google-earth\":true,\"google-talk\":true,\"internal-remoting-viewer\":true,\"java-runtime-environment\":true,\"ppGoogleNaClPluginChrome\":{\"plugin\":true},\"silverlight\":true,\"widevinecdmadapter\":{\"plugin\":true}}"
+},
+        {
+            "name": "hotword.search_enabled_2",
+            "value": "true"
+},
+        {
+            "name": "hotword.audio_logging_enabled",
+            "value": "true"
+},
+        {
+            "name": "bookmark_bar.show_apps_shortcut",
+            "value": "false"
+},
+        {
+            "name": "extensions.ui.developer_mode",
+            "value": "false"
+},
+        {
+            "name": "settings.a11y.high_contrast_enabled",
+            "value": "false"
+},
+        {
+            "name": "settings.a11y.enable_menu",
+            "value": "false"
+},
+        {
+            "name": "settings.a11y.large_cursor_enabled",
+            "value": "false"
+},
+        {
+            "name": "hotword.previous_language",
+            "value": "\"en-US\""
+},
+        {
+            "name": "download.prompt_for_download",
+            "value": "false"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "1"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en,es\""
+},
+        {
+            "name": "translate_denied_count",
+            "value": "{\"cs\":0,\"da\":0,\"de\":4,\"es\":1,\"fi\":1,\"fr\":0,\"hi\":0,\"it\":0,\"ja\":0,\"ko\":0,\"mr\":0,\"ms\":1,\"nl\":0,\"pt\":1,\"ru\":0,\"te\":1,\"zh-CN\":1,\"zh-TW\":0}"
+},
+        {
+            "name": "translate_too_often_denied",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.mixed_script",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"https://[*.]mail.google.com:443,*\":{\"setting\":2}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.mouselock",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.protocol_handlers",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "profile.migrated_default_content_settings",
+            "value": "false"
+},
+        {
+            "name": "profile.content_settings.pattern_pairs",
+            "value": "{}"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"fr\":true}"
+},
+        {
+            "name": "profile.content_settings.exceptions.push_messaging",
+            "value": "{\"https://apps.facebook.com:443,https://apps.facebook.com:443\":{\"setting\":1},\"https://www.facebook.com:443,https://www.facebook.com:443\":{\"last_used\":1448819412.886752,\"setting\":1},\"https://www.online.citibank.co.in:443,https://www.online.citibank.co.in:443\":{\"setting\":1}}"
+},
+        {
+            "name": "toolbar_icon_surfacing_bubble_acknowledged",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.keygen",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.fullscreen",
+            "value": "{\"[*.]bgr.com,*\":{\"setting\":1},\"[*.]boston.cbslocal.com,*\":{\"setting\":1},\"[*.]fanso.tv,*\":{\"setting\":1},\"[*.]indianexpress.com,*\":{\"setting\":1},\"[*.]saganseries.com,*\":{\"setting\":1},\"[*.]wheretowatch.com,*\":{\"setting\":1},\"[*.]www.netflix.com,*\":{\"setting\":1},\"[*.]www.pcworld.com,*\":{\"setting\":1},\"[*.]www.realmadrid.com,*\":{\"setting\":1},\"[*.]www.theverge.com,*\":{\"setting\":1},\"http://123movies.to:80,http://123movies.to:80\":{\"setting\":1},\"http://127.0.0.1:8888,*\":{\"setting\":1},\"http://360tour.vassar.edu:80,http://360tour.vassar.edu:80\":{\"setting\":1},\"http://admissions.vassar.edu:80,http://admissions.vassar.edu:80\":{\"setting\":1},\"http://cdn.playwire.com:80,http://www.fullmatchesandshows.com:80\":{\"setting\":1},\"http://cdn.playwire.com:80,http://www.goalsarena.org:80\":{\"setting\":1},\"http://cdn.playwire.com:80,http://www.timesoccer.com:80\":{\"setting\":1},\"http://chouhaa.info:80,http://chouhaa.info:80\":{\"setting\":1},\"http://consumer.huawei.com:80,http://consumer.huawei.com:80\":{\"setting\":1},\"http://movpod.in:80,http://movpod.in:80\":{\"setting\":1},\"http://tvfplay.com:80,http://tvfplay.com:80\":{\"setting\":1},\"http://videodictionary.kwebpia.net:80,http://videodictionary.kwebpia.net:80\":{\"setting\":1},\"http://www.apple.com:80,http://www.apple.com:80\":{\"setting\":1},\"http://www.flashx.tv:80,http://www.flashx.tv:80\":{\"setting\":1},\"http://www.livenewsbox.com:80,http://www.livenewsbox.com:80\":{\"setting\":1},\"http://www.ted.com:80,http://www.ted.com:80\":{\"setting\":1},\"http://www.vidlockers.ag:80,http://www.vidlockers.ag:80\":{\"setting\":1},\"https://[*.]docs.google.com:443,*\":{\"setting\":1},\"https://[*.]plus.google.com:443,*\":{\"setting\":1},\"https://[*.]www.google.co.in:443,*\":{\"setting\":1},\"https://[*.]www.indiegogo.com:443,*\":{\"setting\":1},\"https://[*.]www.kickstarter.com:443,*\":{\"setting\":1},\"https://[*.]www.youtube.com:443,*\":{\"setting\":1},\"https://learn.uwaterloo.ca:443,https://learn.uwaterloo.ca:443\":{\"setting\":1},\"https://www.facebook.com:443,https://www.facebook.com:443\":{\"setting\":1},\"https://youtube.googleapis.com:443,https://drive.google.com:443\":{\"setting\":1}}"
+},
+        {
+            "name": "browser.show_fullscreen_toolbar",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.form_data",
+            "value": "false"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{\"es\":\"en\",\"hi\":\"en\"}"
+},
+        {
+            "name": "browser.clear_data.cookies",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.hosted_apps_data",
+            "value": "false"
+},
+        {
+            "name": "profile.password_manager_enabled",
+            "value": "true"
+},
+        {
+            "name": "browser.back_shortcut_bubble_shown_count",
+            "value": "5"
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "media_router.cloudservices.enabled",
+            "value": "true"
+},
+        {
+            "name": "media_router.cloudservices.prefset",
+            "value": "true"
+},
+        {
+            "name": "media_router.firstrunflow.acknowledged",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.browsing_history",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{\"businesstoday.in,*\":{\"setting\":2},\"http://blogs.economictimes.indiatimes.com,*\":{\"setting\":2},\"http://economictimes.indiatimes.com,*\":{\"setting\":2},\"http://gadgets.ndtv.com,*\":{\"setting\":2},\"http://indiatoday.intoday.in,*\":{\"setting\":2},\"http://post.jagran.com,*\":{\"setting\":2},\"http://profit.ndtv.com,*\":{\"setting\":2},\"http://timesofindia.indiatimes.com,*\":{\"setting\":2},\"http://www.business-standard.com,*\":{\"setting\":2},\"http://www.businessinsider.com,*\":{\"setting\":2},\"http://www.businesstoday.in,*\":{\"setting\":2},\"http://www.dailytelegraph.com.au,*\":{\"setting\":2},\"http://www.financialexpress.com,*\":{\"setting\":2},\"http://www.hindustantimes.com,*\":{\"setting\":2},\"http://www.ndtv.com,*\":{\"setting\":2},\"indianexpress.com,*\":{\"setting\":2}}"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "browser.clear_data.time_period",
+            "value": "0"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{\"*,*\":{\"per_resource\":{\"Default Browser.plugin\":1,\"SharePointBrowserPlugin.plugin\":1,\"ace.bundle\":1,\"adobe-flash-player\":1,\"apple-quicktime\":1,\"google-chrome-pdf\":1,\"google-earth\":1,\"google-talk\":1,\"internal-remoting-viewer\":1,\"java-runtime-environment\":1,\"ppGoogleNaClPluginChrome.plugin\":1,\"silverlight\":1,\"widevinecdmadapter.plugin\":1}},\"[*.]barneysvideoresume.com,*\":{\"setting\":1},\"[*.]keepvid.com,*\":{\"setting\":1},\"[*.]learning.princetonreview.com,*\":{\"setting\":1},\"[*.]www.apple.com,*\":{\"setting\":1},\"[*.]www.cut-the-knot.org,*\":{\"setting\":1},\"[*.]www.geogebra.org,*\":{\"setting\":1},\"[*.]www.realmadrid.com,*\":{\"setting\":1},\"[*.]www.ugrad.math.ubc.ca,*\":{\"setting\":1},\"http://barneysvideoresume.com:80,*\":{\"setting\":1},\"http://keepvid.com:80,*\":{\"setting\":1},\"http://learning.princetonreview.com:80,*\":{\"setting\":1},\"http://www.apple.com:80,*\":{\"setting\":1},\"http://www.cut-the-knot.org:80,*\":{\"setting\":1},\"http://www.geogebra.org:80,*\":{\"setting\":1},\"http://www.realmadrid.com:80,*\":{\"setting\":1},\"http://www.ugrad.math.ubc.ca:80,*\":{\"setting\":1}}"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"ar\":0,\"ru\":0,\"tr\":0}"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"ar\":1,\"bn\":1,\"cs\":1,\"da\":1,\"de\":1,\"es\":0,\"fi\":0,\"fr\":0,\"hi\":7,\"id\":1,\"it\":1,\"ja\":3,\"ko\":2,\"mr\":2,\"ms\":0,\"nl\":1,\"pt\":0,\"ru\":1,\"te\":0,\"th\":0,\"tr\":1,\"zh-CN\":0,\"zh-TW\":0}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"ar\":0,\"bn\":0,\"de\":0,\"fr\":4,\"hi\":0,\"id\":0,\"mr\":0,\"ru\":0,\"th\":1,\"tr\":0,\"zh-TW\":1}"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"chromeos:Ctrl+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\":false},\"chromeos:MediaNextTrack:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"next-track\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"chromeos:MediaPlayPause:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"play-pause\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"chromeos:MediaPrevTrack:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"previous-track\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"chromeos:MediaStop:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"stop\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"mac:Command+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\":false},\"mac:MediaNextTrack:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"next-track\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"mac:MediaPlayPause:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"play-pause\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"mac:MediaPrevTrack:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"previous-track\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true},\"mac:MediaStop:fahmaaghhglfmonjliepjlchgpgfmobi\":{\"command_name\":\"stop\",\"extension\":\"fahmaaghhglfmonjliepjlchgpgfmobi\",\"global\":true}}"
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "55"
+},
+        {
+            "name": "browser.show_home_button",
+            "value": "false"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "false"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"[*.]espn.go.com,*\":{\"setting\":1},\"[*.]store.apple.com,*\":{\"setting\":1},\"[*.]us.flyasiana.com,*\":{\"setting\":1},\"[*.]watchseriestv.to,*\":{\"setting\":1},\"[*.]www.free-tv-video-online.me,*\":{\"setting\":2},\"[*.]www.managingmadrid.com,*\":{\"setting\":1},\"[*.]www.marca.com,*\":{\"setting\":1},\"[*.]www.ralphlauren.com,*\":{\"setting\":1},\"http://10.20.0.10,*\":{\"setting\":1},\"http://espn.go.com:80,*\":{\"setting\":1},\"http://store.apple.com:80,*\":{\"setting\":1},\"http://us.flyasiana.com:80,*\":{\"setting\":1},\"http://watchseriestv.to:80,*\":{\"setting\":1},\"http://www.managingmadrid.com:80,*\":{\"setting\":1},\"http://www.marca.com:80,*\":{\"setting\":1},\"http://www.ralphlauren.com:80,*\":{\"setting\":1},\"https://1.1.1.1:443,*\":{\"setting\":1},\"https://9to5google.com:443,*\":{\"setting\":1},\"https://[*.]admissions.wustl.edu:443,*\":{\"setting\":1},\"https://[*.]connection.naviance.com:443,*\":{\"setting\":1},\"https://[*.]fastcheck.sita.aero:443,*\":{\"setting\":1},\"https://[*.]inbox.google.com:443,*\":{\"setting\":1},\"https://[*.]jobmine.ccol.uwaterloo.ca:443,*\":{\"setting\":1},\"https://[*.]mail.google.com:443,*\":{\"setting\":1},\"https://[*.]quest.pecs.uwaterloo.ca:443,*\":{\"setting\":1},\"https://[*.]secure.jetairways.com:443,*\":{\"setting\":1},\"https://[*.]www.affirm.com:443,*\":{\"setting\":1},\"https://[*.]www.citibank.co.in:443,*\":{\"setting\":1},\"https://[*.]www.draw.io:443,*\":{\"setting\":1},\"https://[*.]www.fido.ca:443,*\":{\"setting\":1},\"https://[*.]www.paypal.com:443,*\":{\"setting\":1},\"https://admissions.wustl.edu:443,*\":{\"setting\":1},\"https://connection.naviance.com:443,*\":{\"setting\":1},\"https://fastcheck.sita.aero:443,*\":{\"setting\":1},\"https://inbox.google.com:443,*\":{\"setting\":1},\"https://jobmine.ccol.uwaterloo.ca:443,*\":{\"setting\":1},\"https://mail.google.com:443,*\":{\"setting\":1},\"https://outlook.office365.com:443,*\":{\"setting\":1},\"https://quest.pecs.uwaterloo.ca:443,*\":{\"setting\":1},\"https://secure.jetairways.com:443,*\":{\"setting\":1},\"https://www.affirm.com:443,*\":{\"setting\":1},\"https://www.cibc.com:443,*\":{\"setting\":1},\"https://www.citibank.co.in:443,*\":{\"setting\":1},\"https://www.draw.io:443,*\":{\"setting\":1},\"https://www.fido.ca:443,*\":{\"setting\":1},\"https://www.paypal.com:443,*\":{\"setting\":1}}"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"gkljgfmjocfalijkgoogmfffkhmkbgol\",\"gmbgaklkmjakoegficnlkhebmhkjfich\",\"lpcaedmchfhocbbapmcbpinfpgnhiddi\",\"mflnemhkomgploogccdmcloekbloobgb\",\"mgijmajocgfcbeboacabfgobmjgjcoja\",\"bmnlcjabgnpnenekpadlanbbkooimhnj\",\"edacconmaakjimmfgnblocblbcdcpbko\",\"gihcngphjjankfngmgdkihhngndcdflc\",\"laookkfknpbbblfpciffpaejjkokdgca\",\"emffkefkbkpkgpdeeooapgaicgmcbolj\",\"cfhdojbkjhnklbpkdaibdccddilifddb\",\"gighmmpiobklfepjocnamgkkbiglidom\",\"gomekmidlodglbbmalcneegieacbdmki\",\"boadgeojelhgndaghljhdicfkmllpafd\",\"pfmgfdlgomnbgkofeojodiodmgpgmkac\",\"cmedhionkhpnakcndndgjdbohmhepckk\",\"ghbmnnjooekpmoecnnnilnnbdlolhkhi\",\"gmlllbghnfkpflemihljekbapjopfjik\",\"hjobfcedfgohjkaieocljfcppjbkglfd\",\"lmjegmlicamnimmfhcmpkclmigmmcbeh\",\"mdanidgdpmkimeiiojknlnekblgmpdll\",\"media_router_action\"]"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "Managed Users": []
+}
